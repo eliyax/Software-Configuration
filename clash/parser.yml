@@ -3,4 +3,4 @@ parsers: # array
     yaml:
       prepend-rules:
         - DOMAIN-SUFFIX,ddrk.me,DIRECT
-        - DOMAIN-SUFFIX,baidu.com,Proxy
+        - DOMAIN-SUFFIX,baidu.com,🚀 节点选择
