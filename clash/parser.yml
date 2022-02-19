@@ -1,0 +1,6 @@
+parsers: # array
+  - reg: https://suo.yt.+$
+    yaml:
+      prepend-rules:
+        - DOMAIN-SUFFIX,ddrk.me,DIRECT
+        - DOMAIN-SUFFIX,baidu.com,Proxy
